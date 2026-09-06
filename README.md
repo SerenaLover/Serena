@@ -5,3 +5,4 @@
 #  <img width="498" height="396" alt="pokemon-xy-pokemon" src="https://github.com/user-attachments/assets/74bb65d6-9be5-447e-a408-065ad036b40e" />
 <p align="center">
 </p>
+https://raw.githubusercontent.com/SerenaLover/Serena/46e88a14629514bf730d267769c983e4c32ef060/hairbrush-brushing.gif
